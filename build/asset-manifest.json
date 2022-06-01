@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e24ccf13.css",
+    "main.js": "/static/js/main.579ba363.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/tamimi.jpg": "/static/media/tamimi.9528e4ec30b811f5ce2c.jpg",
+    "static/media/p.photo.jpg": "/static/media/p.photo.beb30e30a8dd748eb4b8.jpg",
+    "index.html": "/index.html",
+    "main.e24ccf13.css.map": "/static/css/main.e24ccf13.css.map",
+    "main.579ba363.js.map": "/static/js/main.579ba363.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24ccf13.css",
+    "static/js/main.579ba363.js"
+  ]
+}
